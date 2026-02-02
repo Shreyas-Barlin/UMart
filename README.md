@@ -1,5 +1,4 @@
 # UMart
-UMart AI Powered Ecommerce website
 <p>
 
 Umart – AI Powered E-Commerce Website
