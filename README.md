@@ -5,7 +5,7 @@ Umart – AI Powered E-Commerce Website
 
 Project Type
 
-Web Application | Academic Project (Second Year)
+Web Application | Academic Project 
 
 <h3>Project Description</h3>
 
